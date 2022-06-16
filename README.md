@@ -9,7 +9,7 @@ O SmartChoice é um sistema web de cardápio digital. Ele possui duas URLs a do 
 
 - A URL do administrador tem as funcionalidades de adicionar, editar e excluir itens do cardápio, informando o link da foto, o nome do item, o preço e uma descrição. As alterações realizadas nessa URL afetarão a URL do cliente.
 
-## Tecologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - React
 - TypeSript
