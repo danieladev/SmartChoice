@@ -1,0 +1,46 @@
+{
+  "foods": [
+    {
+      "image": "https://www.lovemysalad.com/sites/default/files/misc/colourfull_salad_bowl.jpg",
+      "name": "Salada do Chef",
+      "price": "25",
+      "description": "Salada com tomate, abacate, repolho roxo, alface, cenoura e abobrinha.",
+      "id": 1
+    },
+    {
+      "image": "https://st2.depositphotos.com/1000589/5902/i/450/depositphotos_59021689-stock-photo-grilled-salmon-with-salad.jpg",
+      "name": "Salmão",
+      "price": "40",
+      "description": "Filé de salmão grelhado com salada tropical.",
+      "id": 2
+    },
+    {
+      "image": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2020/03/How-to-Make-Teriyaki-Chicken-1-2.jpg",
+      "name": "Frango Teriyaki",
+      "price": "35",
+      "description": "Cubos de frango ao molho teriyaki, arroz branco e brócolis cozidos no vapor.",
+      "id": 3
+    },
+    {
+      "image": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/09/Zucchini-Lasagna-6.jpg",
+      "name": "Lasanha de Abobrinha",
+      "price": "30",
+      "description": "Lasanha de abobrinha com molho bolonhesa e mix de queijos.",
+      "id": 4
+    },
+    {
+      "image": "https://img.taste.com.au/Qmmn-as4/w643-h428-cfill-q90/taste/2019/04/healthy-chicken-noodle-soup-148811-2.jpg",
+      "name": "Sopa de Frango",
+      "price": "20",
+      "description": "Sopa de frango com noodle, tomate, brócolis, ervilha e manjericão.",
+      "id": 5
+    },
+    {
+      "image": "https://img.taste.com.au/OfoKTYtI/w643-h428-cfill-q90/taste/2016/11/steak-diane-with-chive-mash-85635-1.jpeg",
+      "name": "Filé Mignon",
+      "price": "50",
+      "description": "Escalopes de filé mignon com purê de batata e brócolis salteado na manteiga.",
+      "id": 6
+    }
+  ]
+}
