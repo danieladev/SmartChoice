@@ -41,6 +41,7 @@ $ cd web
 
 # Instale as dependências
 $ npm install
+$ npm i react-web-share
 
 # Execute o script da fake API
 $ npm run json-server server.json -p 3333
